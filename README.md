@@ -16,7 +16,7 @@ I am Sudip, a Netwrok Engineer, currently continuing my Master's studies at TU C
 <p align="left">
 <a href="https://linkedin.com/in/sudip-barua-0b898a107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudip-barua-0b898a107" height="30" width="40" /></a>
 <a href="https://fb.com/sudip.barua.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sudip.barua.n" height="30" width="40" /></a>
-<a href="https://instagram.com/sudip.barua.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudip.barua.n" height="30" width="40" /></a>
+<a href="https://instagram.com/sudip_barua.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudip_barua.n" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,6 +24,6 @@ I am Sudip, a Netwrok Engineer, currently continuing my Master's studies at TU C
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudipbarua&theme=onedark&show_icons=true&locale=en&layout=compact" alt="sudipbarua" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sudipbarua&theme=onedark&show_icons=true&locale=en" alt="sudipbarua" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudipbarua&theme=onedark&show_icons=true&locale=en" alt="sudipbarua" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sudipbarua&theme=onedark&" alt="sudipbarua" /></p>
