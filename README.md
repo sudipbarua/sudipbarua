@@ -8,9 +8,7 @@ I am Sudip, a Netwrok Engineer, currently continuing my Master's studies at TU C
 - 💬 Ask me about Machine Learning based Intrusion Detction Systems 
 - 📫 How to reach me: sudip.barua@ymail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipbarua&label=Profile%20views&color=0e75b6&style=flat" alt="sudipbarua" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sudipbarua&count_private=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sudipbarua&count_private=true&theme=onedark&title=MultiLanguage,Commits,Issues,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
