@@ -27,3 +27,8 @@ I am Sudip, a Netwrok Engineer, currently continuing my Master's studies at TU C
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sudipbarua&theme=onedark&count_private=true&"></td>
   </tr>
 
+<p>
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudipbarua&count_private=true&theme=onedark&show_icons=true&locale=en&layout=compact" alt="sudipbarua" />
+    <img width="35%" src="https://github-readme-stats.vercel.app/api?username=sudipbarua&count_private=true&theme=onedark&show_icons=true&locale=en" alt="sudipbarua" />
+    <img width="34%" src="https://github-readme-streak-stats.herokuapp.com/?user=sudipbarua&theme=onedark&count_private=true&" alt="sudipbarua" />
+  </p>
