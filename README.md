@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am Sudip, a Netwrok Engineer, currently continuing my Master's studies at TU Chemnitz and working at Intelligent Network department at Dacoso GmbH 
+I am Sudip, a researcher at TU Chemnitz. 
 
-- 🔭 I’m currently working on my thesis on Red Teaming and dataset generation for training AI based IDS
-- 🌱 I’m currently learning Adversery Emulation
-- 🤔 I’m looking for help on Caldera 
-- 💬 Ask me about Machine Learning based Intrusion Detction Systems 
+- 🔭 I’m currently working on localization of sensors using LoRaWAN
+- 🌱 I’m currently learning different localization techniques
+- 🤔 I’m looking for help about data collection 
+- 💬 Ask me about Machine Learning based Intrusion Detection Systems 
 - 📫 How to reach me: sudip.barua@ymail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sudipbarua&count_private=true&theme=onedark&title=MultiLanguage,Commits,Issues,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
