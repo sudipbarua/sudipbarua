@@ -2,10 +2,8 @@
 
 I am Sudip, a researcher at TU Chemnitz. 
 
-- 🔭 I’m currently working on localization of sensors using LoRaWAN
-- 🌱 I’m currently learning different localization techniques
-- 🤔 I’m looking for help about data collection 
-- 💬 Ask me about Machine Learning based Intrusion Detection Systems 
+- 🔭 I’m currently working on LoRaWAN Network as a sensors 
+- 🌱 I’m currently developing a dynamic data rate and energy consumption optimization 
 - 📫 How to reach me: sudip.barua@ymail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sudipbarua&count_private=true&theme=onedark&title=MultiLanguage,Commits,Issues,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
