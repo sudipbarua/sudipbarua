@@ -2,7 +2,7 @@
 
 I am Sudip, a researcher at TU Chemnitz. 
 
-- 🔭 I’m currently working on LoRaWAN Network as a sensors 
+- 🔭 I’m currently working on LoRaWAN Network as a sensor 
 - 🌱 I’m currently developing a dynamic data rate and energy consumption optimization 
 - 📫 How to reach me: sudip.barua@ymail.com
 
@@ -20,6 +20,4 @@ I am Sudip, a researcher at TU Chemnitz.
 
 <p>
     <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudipbarua&count_private=true&theme=onedark&show_icons=true&locale=en&layout=compact" alt="sudipbarua" />
-    <img width="35%" src="https://github-readme-stats.vercel.app/api?username=sudipbarua&count_private=true&theme=onedark&show_icons=true&locale=en" alt="sudipbarua" />
-    <img width="34%" src="https://github-readme-streak-stats.herokuapp.com/?user=sudipbarua&theme=onedark&count_private=true&" alt="sudipbarua" />
-  </p>
+</p>
