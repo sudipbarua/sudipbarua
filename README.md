@@ -1,9 +1,12 @@
-### Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=%20Hi%20there%20👋&textBg=false&fontColor=e1dff5" />
+</p>
 
-I am Sudip, a researcher at TU Chemnitz. 
-
-- 🔭 I’m currently working on LoRaWAN Network as a sensor 
-- 🌱 I’m currently developing a dynamic data rate and energy consumption optimization 
+I am Sudip Barua, a PhD researcher at TU Chemnitz. 
+- 🎓 Received my MSc degree from TU Chemnitz in Information and Communication Systems
+- 🔭 Currently working on LoRaWAN Network as a sensor 
+- 🌱 My research is focused on dynamic data rate and energy consumption optimization 
 - 📫 How to reach me: sudip.barua@ymail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sudipbarua&count_private=true&theme=onedark&title=MultiLanguage,Commits,Issues,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
