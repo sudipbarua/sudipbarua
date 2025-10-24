@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=%20Hi%20there%20👋&textBg=false&fontColor=e1dff5" />
 </p>
 
-I am Sudip Barua, a PhD researcher at TU Chemnitz. 
+I am Sudip Barua, a researcher at TU Chemnitz. 
 - 🎓 Received my MSc degree from TU Chemnitz in Information and Communication Systems
 - 🔭 Currently working on LoRaWAN Network as a sensor 
 - 🌱 My research is focused on dynamic data rate and energy consumption optimization 
