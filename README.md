@@ -3,8 +3,6 @@ I am Sudip Barua, a former researcher at TU Chemnitz.
 - 🔭 Currently working on LoRaWAN Network as a sensor 
 - 🌱 My research is focused on dynamic resource allocation and energy consumption optimisation 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sudipbarua&count_private=true&theme=onedark&title=MultiLanguage,Commits,Issues,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sudip-barua-0b898a107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudip-barua-0b898a107" height="30" width="40" /></a>
